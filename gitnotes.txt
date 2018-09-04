@@ -1,0 +1,8 @@
+mkdir %make dir
+cd %change dir
+rmdir %remove empty dir
+touch %build file
+rm %remove file
+git add %track file
+git commit -m '' %commit change
+git push %push to repotory
